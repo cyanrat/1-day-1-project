@@ -15,6 +15,8 @@ print("2.-")
 print("3.-")
 print("4./")
 
+
+while True:
 choice = input(":")
 
 if choice in("1", "2", "3", "4"):
